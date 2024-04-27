@@ -13,9 +13,9 @@ Requisitos
 Para executar este projeto, é necessário ter instalado:
 
 Python 
-.
+
 Biblioteca CustomTkinter
-.
+
 Biblioteca Tkinter
-.
+
 Um banco de dados SQLite ou outro banco de dados compatível com SQL
